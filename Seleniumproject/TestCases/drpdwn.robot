@@ -10,4 +10,3 @@ dropdownlist
     open browser    ${url}  ${browser}
     Maximize Browser Window
     Select From List By Label  dropdown     Drop Down Item 3
-    Close Browser
